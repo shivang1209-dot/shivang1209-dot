@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey, I'm Shivang 👤
 $whoami ~<br>Cybersecurity Buff ~ Passionate about securing the digital frontier.<br>CTF Fanatic ~ Love cracking those Capture The Flag challenges.<br>Coding Explorer ~ Proficient in Python and always exploring new languages.<br>Avid Learner and a Team Player.<br>I'm currently learning GoLang<br> 
 
 
