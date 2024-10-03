@@ -62,7 +62,7 @@
   <br/><br/>
 
   <!-- TryHackMe Badge Centered on One Line -->
-  <img width="200" src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="TryHackMe" />
+  <img width="500" src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="TryHackMe" />
   <br/><br/>
 
   <!-- Remaining Two Images on the Last Line with Adjusted Widths -->
