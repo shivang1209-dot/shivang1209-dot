@@ -58,8 +58,8 @@
 <br>
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img width="390" src="https://streak-stats.demolab.com/?user=shivang1209-dot&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=shivang1209-dot&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width="390" height ="195" src="https://streak-stats.demolab.com/?user=shivang1209-dot&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=shivang1209-dot&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
   </div>
   <br/>
   <img src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="TryHackMe" />
