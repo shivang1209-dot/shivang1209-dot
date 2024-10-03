@@ -67,7 +67,7 @@
 
   <!-- Remaining Two Images on the Last Line with Adjusted Widths -->
   <div style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;">
-    <img width="420" src="https://github-readme-stats.vercel.app/api?username=shivang1209-dot&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width="425" src="https://github-readme-stats.vercel.app/api?username=shivang1209-dot&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivang1209-dot&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </div>
 </div>
