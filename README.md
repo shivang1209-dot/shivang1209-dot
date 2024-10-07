@@ -62,8 +62,7 @@
   <br/><br/>
 
 
-  <img width="400" src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="TryHackMe" />
-  <script src="https://tryhackme.com/badge/1787630"></script>
+  <a href="https://tryhackme.com/badge/1787630"><img width="400" src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="TryHackMe" /></a>
   <br/><br/>
 
 
