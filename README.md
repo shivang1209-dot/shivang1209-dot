@@ -63,6 +63,8 @@
 
 
   <a href="https://tryhackme.com/p/S4vi0ur"><img width="400" src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="TryHackMe" /></a>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1787630" style='border:none;'></iframe>
+
   <br/><br/>
 
 
