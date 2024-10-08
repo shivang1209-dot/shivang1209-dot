@@ -61,9 +61,7 @@
   <img width="390" src="https://streak-stats.demolab.com/?user=shivang1209-dot&count_private=true&theme=react&border_radius=10" alt="streak stats" />
   <br/><br/>
 
-
-  <a href="https://tryhackme.com/p/S4vi0ur"><img width="400" src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="TryHackMe" /></a>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1787630" style='border:none;'></iframe>
+  <a href="https://tryhackme.com/p/S4vi0ur"><img width="400" src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="Your Image Badge" />
 
   <br/><br/>
 
