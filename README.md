@@ -54,15 +54,17 @@
 <br>
 <div align="center">
 
-  <img width="390" src="https://streak-stats.demolab.com/?user=shivang1209-dot&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  ![shivang1209-dot's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivang1209-dot&theme=tokyonight&hide_border=true)
   <br/><br/>
 
   <a href="https://tryhackme.com/p/S4vi0ur"><img width="400" src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="Your Image Badge" />
   <br/>
 
   <div style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;">
-    <img width="425" src="https://github-readme-stats.vercel.app/api?username=shivang1209-dot&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivang1209-dot&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+      
+<![shivang1209-dot's Stats](https://github-readme-stats.vercel.app/api?username=shivang1209-dot&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+    
+![shivang1209-dot's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivang1209-dot&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
   </div>
 </div>
 <br/><br/>
