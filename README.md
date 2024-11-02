@@ -9,7 +9,6 @@
 <br/>
 
 <div align="center">
-@@ -38,52 +37,41 @@
 <br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linux,python,bash,powershell,kali,html,css,electron,vscode" />
