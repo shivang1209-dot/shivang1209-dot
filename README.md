@@ -11,7 +11,7 @@
 
 🔭 I’m currently working on **VAPT**
 
-🌱 I’m currently learning **Golang, DevSecOps**
+🌱 I’m currently learning **Web Exploitation, GoLang**
 
 💬 Ask me about **Python, Linux, CTFs... or anything [here](https://github.com/shivang1209-dot/shivang1209-dot/issues)**
 
