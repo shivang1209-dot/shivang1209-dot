@@ -57,9 +57,6 @@
 <img width="390" src="https://streak-stats.demolab.com/?user=shivang1209-dot&count_private=true&theme=react&border_radius=10" alt="streak stats" />
 <br/><br/>
 
-
-[![tryhackme stats](https://raw.githubusercontent.com/shivang1209-dot/shivang1209-dot/master/assets/thm_propic.png)]: #
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="TryHackMe Badge" />
 <br/>
 
