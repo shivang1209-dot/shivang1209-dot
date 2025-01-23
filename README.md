@@ -57,7 +57,9 @@
 ![GitHub Stats](https://github-readme-stats-git-master-shivangs-projects-8ea53d81.vercel.app/api?username=shivang1209-dot&count_private=true&theme=dark)
 <br/>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="TryHackMe Badge" width="400" />
+
+
 <br/>
 
 </div>
