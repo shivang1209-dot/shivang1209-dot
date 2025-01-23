@@ -54,7 +54,8 @@
 <br>
 <div align="center">
 
-![Shivang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivang1209-dot&show_icons=true&theme=nord&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-hu9f5ae3x-shivangs-projects-8ea53d81.vercel.app/api?username=shivang1209-dot&show_icons=true&theme=nord&include_all_commits=true&count_private=true)
+
 <br/><br/>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="TryHackMe Badge" />
