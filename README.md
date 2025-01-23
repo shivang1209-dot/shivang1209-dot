@@ -54,7 +54,7 @@
 <br>
 <div align="center">
 
-<img width="390" src="https://streak-stats.demolab.com/?user=shivang1209-dot&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+![Shivang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivang1209-dot&show_icons=true&theme=nord&include_all_commits=true)
 <br/><br/>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="TryHackMe Badge" />
