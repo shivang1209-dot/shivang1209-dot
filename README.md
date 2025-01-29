@@ -59,7 +59,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/S4vi0ur.png" alt="TryHackMe Badge" width="400" />
 
-
 <br/>
 
 </div>
